@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AlperCelik_HW1</string>
+    <string name="store_name">Alper\'s Greengrocer</string>
+    <string name="button_shopping">LET\'S SHOPPING!</string>
+    <string name="button_exit">EXIT</string>
+
+    <string-array name="fruits">
+        <item>Apple ($1 per each)</item>
+        <item>Banana ($2 per each)</item>
+        <item>Carrot ($3 per each)</item>
+        <item>Cherry ($4 per each)</item>
+        <item>Orange ($5 per each)</item>
+    </string-array>
+
+    <string name="button_add">Add to Basket</string>
+    <string name="button_finish">Complete your Shopping</string>
+
+    <string name="order">My Orders</string>
+    <string name="pay">Pay</string>
+    <string name="back">Back to the Shopping</string>
+
+    <string name="finishing">Thank you for choosing us!</string>
+    <string name="backk">Let\'s start again!</string>
+    
+    <string name="basket">Your product has added to your basket!</string>
+
+
+</resources>
